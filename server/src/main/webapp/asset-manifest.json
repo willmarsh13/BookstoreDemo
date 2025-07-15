@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/WilliamBookstoreReactTransact/static/css/main.6b8164d3.css",
+    "main.js": "/WilliamBookstoreReactTransact/static/js/main.30b6be52.js",
+    "static/js/453.419a5d54.chunk.js": "/WilliamBookstoreReactTransact/static/js/453.419a5d54.chunk.js",
+    "static/media/ChapterAndCoHeroImg.png": "/WilliamBookstoreReactTransact/static/media/ChapterAndCoHeroImg.1c2d43e796338e1a32b1.png",
+    "static/media/storefront.png": "/WilliamBookstoreReactTransact/static/media/storefront.9eb0ed369c3344f54cb1.png",
+    "static/media/1016-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1016-book-cover.f2d0ef062f897c6a4b5a.jpg",
+    "static/media/1004-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1004-book-cover.0bf6f18bd46623c8a145.jpg",
+    "static/media/ChapterAndCoLogo.png": "/WilliamBookstoreReactTransact/static/media/ChapterAndCoLogo.c11b3e04f97fb54c0620.png",
+    "static/media/1015-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1015-book-cover.047622f13cb07f26b03b.jpg",
+    "static/media/1014-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1014-book-cover.62aef242537dc6967183.jpg",
+    "static/media/1001-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1001-book-cover.cc53cfeb45841a04d292.jpg",
+    "static/media/1021-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1021-book-cover.1e2cccf5ed85b0cf2792.jpg",
+    "static/media/1020-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1020-book-cover.23198e31fad3159201d3.jpg",
+    "static/media/1003-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1003-book-cover.d60df647b905818b06df.jpg",
+    "static/media/1017-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1017-book-cover.ee91987f7aefc798f91d.jpg",
+    "static/media/1009-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1009-book-cover.fb424033cd9ab4e52805.jpg",
+    "static/media/1010-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1010-book-cover.087f06f4035a403b6543.jpg",
+    "static/media/1018-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1018-book-cover.87451ee27cfe12e70006.jpg",
+    "static/media/1006-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1006-book-cover.087e7ff37dc59750f73b.jpg",
+    "static/media/1002-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1002-book-cover.0e38788ba9465fb71734.jpg",
+    "static/media/1012-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1012-book-cover.d066996244188b84c6fd.jpg",
+    "static/media/1005-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1005-book-cover.6249f3e81828738c51dd.jpg",
+    "static/media/1011-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1011-book-cover.8220c8e7187ce39bfe47.jpg",
+    "static/media/1013-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1013-book-cover.37f8bdff7a4c74db3726.jpg",
+    "static/media/1007-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1007-book-cover.a9b50771d19cb7f77883.jpg",
+    "static/media/1019-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1019-book-cover.e742a332e57cb4b45b88.jpg",
+    "static/media/1008-book-cover.jpg": "/WilliamBookstoreReactTransact/static/media/1008-book-cover.f8ace2a223b635e6ea10.jpg",
+    "index.html": "/WilliamBookstoreReactTransact/index.html",
+    "main.6b8164d3.css.map": "/WilliamBookstoreReactTransact/static/css/main.6b8164d3.css.map",
+    "main.30b6be52.js.map": "/WilliamBookstoreReactTransact/static/js/main.30b6be52.js.map",
+    "453.419a5d54.chunk.js.map": "/WilliamBookstoreReactTransact/static/js/453.419a5d54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b8164d3.css",
+    "static/js/main.30b6be52.js"
+  ]
+}

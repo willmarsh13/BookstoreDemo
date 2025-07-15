@@ -1,0 +1,91 @@
+# For a quick start check out our HTTP Requests collection (Tools|HTTP Client|Open HTTP Requests Collection) or
+# paste cURL into the file and request will be converted to HTTP Request format.
+#
+# Following HTTP Request Live Templates are available:
+# * 'gtrp' and 'gtr' create a GET request with or without query parameters;
+# * 'ptr' and 'ptrp' create a POST request with a simple or parameter-like body;
+# * 'mptr' and 'fptr' create a POST request to submit a form with a text or file field (multipart/form-data);
+
+GET http://localhost:8080/WilliamBookstoreReactTransact/api/categories
+Accept: application/json
+
+###
+POST http://localhost:8080/WilliamBookstoreReactTransact/api/orders
+Accept: application/json
+Content-Type: application/json
+
+{
+    "customerForm": {
+        "name": "Will Marsh",
+        "address": "00 Street Rd",
+        "phone": "(555) 444-3333",
+        "email": "willmarsh@vt.edu",
+        "ccNumber": "4111111111111111",
+        "ccExpiryMonth": 12,
+        "ccExpiryYear": 2025
+    },
+    "cart": {
+        "itemArray": [
+            {
+                "id": 1008,
+                "book": {
+                    "bookId": 1008,
+                    "title": "To Kill a Mockingbird",
+                    "author": "Harper Lee",
+                    "price": 23,
+                    "isPublic": true,
+                    "categoryId": 1001,
+                    "description": "'Shoot all the Bluejays you want, if you can hit 'em, but remember it's a sin to kill a Mockingbird.'",
+                    "isFeatured": false,
+                    "rating": 0
+                },
+                "quantity": 5
+            },
+            {
+                "id": 1009,
+                "book": {
+                    "bookId": 1009,
+                    "title": "The Great Gatsby: Original 1925 Edition",
+                    "author": "F Scott Fitzgerald",
+                    "price": 20,
+                    "isPublic": false,
+                    "categoryId": 1001,
+                    "description": "Jay Gatsby had once loved spoiled and beautiful Daisy Buchanan, then lost her to a rich boy. Now, mysteriously wealthy, he is ready to risk everything to woo her back.",
+                    "isFeatured": false,
+                    "rating": 0
+                },
+                "quantity": 1
+            },
+            {
+                "id": 1011,
+                "book": {
+                    "bookId": 1011,
+                    "title": "Hatchet",
+                    "author": "Gary Paulsen",
+                    "price": 18,
+                    "isPublic": false,
+                    "categoryId": 1001,
+                    "description": "There was a wild crashing sound, a ripping of metal, and the plane blew through the trees, out over the water and down, down to slam into the lake . . . Brian is a city boy. Not used to living rough. Until his plane crash-lands in the Canadian wilderness.",
+                    "isFeatured": false,
+                    "rating": 0
+                },
+                "quantity": 1
+            },
+            {
+                "id": 1003,
+                "book": {
+                    "bookId": 1003,
+                    "title": "The Perfect Marraige",
+                    "author": "Jeneva Rose",
+                    "price": 9,
+                    "isPublic": true,
+                    "categoryId": 1003,
+                    "description": "Your husband's mistress is dead. And you're his lawyer...                             Sarah Morgan is a successful and powerful defense attorney in Washington D.C. As a named partner at her firm, life is going exactly as planned. Except now Sarah must take on her hardest case yet, defending her own husband.",
+                    "isFeatured": false,
+                    "rating": 0
+                },
+                "quantity": 2
+            }
+        ]
+    }
+}
